@@ -2,6 +2,13 @@
 
 Googleスプレッドシートをバックエンド、AngularJSをフロントエンドとしてWebサイトを表現する検証のためのデモ。
 
+## 例
+
+* Googleスプレッドシート
+  * https://docs.google.com/spreadsheets/d/1UX5JseKusqnzfCTrK5LKRi607m2Ezh-WupcwysWogyk/pubhtml
+* デモ
+  * http://google-spread-use.s3-website-ap-northeast-1.amazonaws.com/
+
 ## Googleスプレッドシートをバックエンドとする利点
 
 * 編集が容易である
