@@ -1,0 +1,23 @@
+{
+  "name": "google-spread-use",
+  "version": "0.0.0",
+  "authors": [
+    "diffshare <diffshare@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.11.4",
+    "angular-material-icons": "~0.6.0"
+  }
+}

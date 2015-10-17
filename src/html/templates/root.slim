@@ -1,0 +1,15 @@
+md-toolbar
+  .md-toolbar-tools
+    h1.md-title Google Spread Use
+md-content
+  md-list
+    md-list-item ng-repeat="e in ctrl.list"
+      img.face ng-src="http://capture.heartrails.com/200x200?{{e.url}}"
+      .md-list-item-text
+        h2
+          | {{e.title}}
+        p
+          | {{e.description}}
+        p
+          | {{e.url}}
+      md-divider md-inset="" ng-if="!$last"
